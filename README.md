@@ -1,6 +1,4 @@
-# 404-not-found
 
-#Responsive webpage for error 404
 <h1 align="center">404-not-found</h1>
 
 
